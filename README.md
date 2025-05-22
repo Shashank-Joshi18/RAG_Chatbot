@@ -7,6 +7,6 @@ Q&A-and-RAG-with-SQL-and-TabularData is a chatbot project that utilizes GPT 4, L
 
 # Features:
 
-Chat with SQL data.
-Chat with preprocessed CSV and XLSX data.
-RAG with Tabular datasets.
+1. Chat with SQL data.
+2. Chat with preprocessed CSV and XLSX data.
+3. RAG with Tabular datasets.
